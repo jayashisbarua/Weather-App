@@ -1,7 +1,3 @@
-Here's a **detailed and professional README** for your Weather App repository:  
-
----
-
 # 🌦️ Weather App    
 
 **Weather App** is a beautifully designed **SwiftUI** application that provides real-time weather updates, a **7-day forecast**, and **dynamic backgrounds** that change based on the time of day. Built using the **MVVM** architecture and the **OpenWeather API**, this app delivers an elegant and smooth user experience with interactive UI elements and animations.  
