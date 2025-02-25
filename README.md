@@ -87,7 +87,7 @@ These are planned enhancements for future versions:
 For questions or feature requests, feel free to reach out:  
 
 📧 Email: **jayashisbarua2006@gmail.com**  
-🧑🏻‍💼 Linkedin: [@jayashisbarua](https://www.linkedin.com/in/jayashis-barua-817830257/)  
+🧑🏻‍💼 Linkedin: [@jayashisbarua](https://www.linkedin.com/in/jayashisBarua/)  
 📌 GitHub: [jayashisbarua](https://github.com/jayashisbarua)  
 
 ---
