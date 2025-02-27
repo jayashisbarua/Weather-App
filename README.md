@@ -34,13 +34,15 @@
 | ![Screenshot1](https://github.com/jayashisbarua/Weather-App/blob/main/noon.png) | ![Screenshot2](https://github.com/jayashisbarua/Weather-App/blob/main/tomorrow.png) | ![Screenshot3](https://github.com/jayashisbarua/Weather-App/blob/main/7-Days-View.png) |  
 
 ## 📱 UI Screenshots
+
 | Sunrise | Early Morning | Morning | Afternoon |
 |---|---|---|---|
-| ![Screenshot1](https://github.com/jayashisbarua/Weather-App/blob/main/sunrise.png) | ![Screenshot2](https://github.com/jayashisbarua/Weather-App/blob/main/early%20Morning.png) | ![Screenshot3](https://github.com/jayashisbarua/Weather-App/blob/main/morning.png) | ![Screenshot4](https://github.com/jayashisbarua/Weather-App/blob/main/noon.png) |
+| <img src="https://github.com/jayashisbarua/Weather-App/blob/main/sunrise.png" width="250"> | <img src="https://github.com/jayashisbarua/Weather-App/blob/main/early%20Morning.png" width="250"> | <img src="https://github.com/jayashisbarua/Weather-App/blob/main/morning.png" width="250"> | <img src="https://github.com/jayashisbarua/Weather-App/blob/main/noon.png" width="250"> |
 
 | Sunset | Early Night | Night | Midnight |
 |---|---|---|---|
-![Screenshot5](https://github.com/jayashisbarua/Weather-App/blob/main/sunset.png) | ![Screenshot6](https://github.com/jayashisbarua/Weather-App/blob/main/early%20night.png) | ![Screenshot7](https://github.com/jayashisbarua/Weather-App/blob/main/night.png) | ![Screenshot8](https://github.com/jayashisbarua/Weather-App/blob/main/midnight.png) |
+| <img src="https://github.com/jayashisbarua/Weather-App/blob/main/sunset.png" width="250"> | <img src="https://github.com/jayashisbarua/Weather-App/blob/main/early%20night.png" width="250"> | <img src="https://github.com/jayashisbarua/Weather-App/blob/main/night.png" width="250"> | <img src="https://github.com/jayashisbarua/Weather-App/blob/main/midnight.png" width="250"> |
+
 ---
 
 ## 🛠️ Tech Stack  
